@@ -8,8 +8,12 @@ public class Person {
         this.name = name;
     }
 
+    public static String getName(Person newName){
+        return newName.name;
+    }
+
     public String getName(){
-        return name;
+        return this.name;
     }
     public void setName(String newName){
         //change the name field to the passed value
