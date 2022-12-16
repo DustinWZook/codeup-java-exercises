@@ -1,6 +1,6 @@
-//package movies;
+//package Movies;
 //
-//public class movie {
+//public class Movie {
 //    private String name;
 //    private String category;
 //    public void Movie(String name, String category){
